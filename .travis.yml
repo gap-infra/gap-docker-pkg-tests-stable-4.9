@@ -27,6 +27,7 @@ env:
     - PKG_NAME=cohomolo
     - PKG_NAME=congruence
     - PKG_NAME=crisp
+    - PKG_NAME=crypting
     - PKG_NAME=cryst
     - PKG_NAME=crystcat
     - PKG_NAME=cubefree
@@ -86,6 +87,7 @@ env:
     - PKG_NAME=unipot
     - PKG_NAME=unitlib
     - PKG_NAME=utils
+    - PKG_NAME=uuid
     - PKG_NAME=wedderga
     - PKG_NAME=xmod
     - PKG_NAME=xmodalg
