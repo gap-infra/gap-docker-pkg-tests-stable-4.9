@@ -83,7 +83,6 @@ env:
     - PKG_NAME=toric
     - PKG_NAME=unipot
     - PKG_NAME=unitlib
-    - PKG_NAME=utils
     - PKG_NAME=uuid
     - PKG_NAME=wedderga
     - PKG_NAME=xmod
