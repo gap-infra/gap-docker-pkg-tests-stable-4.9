@@ -51,6 +51,7 @@ env:
     - PKG_NAME=intpic
     - PKG_NAME=irredsol
     - PKG_NAME=json
+    - PKG_NAME=jupyterkernel
     - PKG_NAME=kan
     - PKG_NAME=laguna
     - PKG_NAME=liealgdb
@@ -83,6 +84,7 @@ env:
     - PKG_NAME=toric
     - PKG_NAME=unipot
     - PKG_NAME=unitlib
+    - PKG_NAME=utils
     - PKG_NAME=uuid
     - PKG_NAME=wedderga
     - PKG_NAME=xmod
