@@ -30,6 +30,7 @@ env:
     - PKG_NAME=crystcat
     - PKG_NAME=cubefree
     - PKG_NAME=cvec
+    - PKG_NAME=datastructures
     - PKG_NAME=digraphs
     - PKG_NAME=example
     - PKG_NAME=factint
@@ -49,6 +50,7 @@ env:
     - PKG_NAME=help
     - PKG_NAME=idrel
     - PKG_NAME=intpic
+    - PKG_NAME=io
     - PKG_NAME=irredsol
     - PKG_NAME=json
     - PKG_NAME=jupyterkernel
